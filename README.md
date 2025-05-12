@@ -1,0 +1,6 @@
+# Xatbotilla2
+Repositori on es emmagatzema tota la info i arxius del xatbot de la Illa 3 per el projecte de la fira.
+# Com funciona?
+El xatbot funciona integrant **WordPress amb l'API de Google Gemini** per respondre preguntes basades en el contingut d'un lloc web. El backend del codi s'executa a **Google Colab**, que gestiona les peticions i connecta amb l'API. Quan un usuari fa una consulta, el chatbot envia la sol·licitud a **Google Gemini**, que genera una resposta mitjançant la seva intel·ligència artificial. Per evitar sobrecarregar el servidor, el web scraping només s'executa quan l'usuari ho demana. A més, s'ha implementat un **rate limiting** per limitar les peticions simultànies i garantir que la pàgina no es col·lapsi per excés de sol·licituds.
+# Enllaços d'interès
+https://alozano.inscastellbisbal.net
