@@ -92,30 +92,6 @@ Afegida la configuració de system_instruction per personalitzar el to del xatbo
 El xatbot ara respon amb un to formal i professional, millorant l'experiència de l'usuari.
 
 Es manté el context de la pàgina web per proporcionar respostes rellevants.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 🔵 Títols grans en blau
 🟢 Novetats
 🟠 Millores destacades en taronja
