@@ -27,7 +27,7 @@ Connexió Frontend - Backend amb ngrok
 APIs necessaries per el funcionament del xat
 
 ✨ Millores:
-El xatbot ara es una icona a la dreta de la homepage (alozano.inscastellbisbal.net)
+El xatbot ara es una icona a la esquerra de la homepage 
 Millores en el codi (Optimitació, etc...)
 
 -----------------------------------------------------------------------------------------------------------------
