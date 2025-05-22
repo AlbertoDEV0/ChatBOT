@@ -33,9 +33,9 @@ Millores en el codi (Optimitació, etc...)
 -----------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------
-📌 [1.2.0] - 16-3-2025
+# 📌 [1.2.0] - 16-3-2025
 
-# 🛠️ Corregit:
+🛠️ Corregit:
 Problema amb sol·licituds constants i innecessàries
 Caiguda del servidor (alozano.inscastellbisbal.net) (48 h de reparacions)
 La pàgina web es recercava amb cada sol·licitud, ja no passa.
@@ -43,12 +43,12 @@ La pàgina web es recercava amb cada sol·licitud, ja no passa.
 -----------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------
-📌 [1.1.0] - 13-3-2025
+# 📌 [1.1.0] - 13-3-2025
 
 🔥 Afegit:
 Xatbot Funcional ara en PHP
 Esta afegit a la pagina web (alozano.inscastellbisbal.net)
-# ✨ Millores:
+✨ Millores:
 Millora de respostes a l’usuari
 Optimització del codi
 
