@@ -9,7 +9,7 @@ No es podia fer scrolling a la GUI
 #🔥 Afegit:
 Botó per reiniciar el xat dins de la GUI en fer click
 
-#✨ Millores:
+# ✨ Millores:
 Millora en les respostes del bot, mes eficients i efectives.
 
 -----------------------------------------------------------------------------------------------------------------
