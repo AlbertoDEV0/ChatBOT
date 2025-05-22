@@ -65,7 +65,7 @@ Interactua amb l’usuari i la info del portafolis
 -----------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------
-# 🔵 📌 [1.5.0] - 22-5-2025
+#  📌 [1.5.0] - 22-5-2025
 
 🔥 Afegit:
 Botó "Reinicia" per esborrar l'historial del xat dins la GUI
@@ -83,6 +83,15 @@ Problema on el missatge de benvinguda no es tornava a mostrar després d’un re
 -----------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------
+#  📌 [1.5.1] - 22-5-2025
+
+✨ Millores:
+
+Afegida la configuració de system_instruction per personalitzar el to del xatbot.
+
+El xatbot ara respon amb un to formal i professional, millorant l'experiència de l'usuari.
+
+Es manté el context de la pàgina web per proporcionar respostes rellevants.
 
 
 
