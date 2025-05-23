@@ -1,4 +1,33 @@
 -- 📌 Registre de Canvis --
+#  📌 [1.5.0] - 22-5-2025
+
+🔥 Afegit:
+Botó "Reinicia" per esborrar l'historial del xat dins la GUI
+
+✨ Millores:
+Millora de la funció d'autoscroll: el xat ara sempre baixa automàticament
+Reestructuració i modularització del codi JavaScript
+Validació de missatges buits abans d’enviar
+Estil visual més clar i pol·lido
+
+🛠️ Corregit:
+Desorganització del codi en versions anteriors
+Problema on el missatge de benvinguda no es tornava a mostrar després d’un reinici
+
+-----------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------
+#  📌 [1.5.1] - 22-5-2025
+
+✨ Millores:
+
+Afegida la configuració de system_instruction per personalitzar el to del xatbot.
+
+El xatbot ara respon amb un to formal i professional, millorant l'experiència de l'usuari.
+
+Es manté el context de la pàgina web per proporcionar respostes rellevants.
+
+
 -----------------------------------------------------------------------------------------------------------------
 🆕 [1.4.0] - 25-3-2025
 
@@ -65,33 +94,7 @@ Interactua amb l’usuari i la info del portafolis
 -----------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------
-#  📌 [1.5.0] - 22-5-2025
 
-🔥 Afegit:
-Botó "Reinicia" per esborrar l'historial del xat dins la GUI
-
-✨ Millores:
-Millora de la funció d'autoscroll: el xat ara sempre baixa automàticament
-Reestructuració i modularització del codi JavaScript
-Validació de missatges buits abans d’enviar
-Estil visual més clar i pol·lido
-
-🛠️ Corregit:
-Desorganització del codi en versions anteriors
-Problema on el missatge de benvinguda no es tornava a mostrar després d’un reinici
-
------------------------------------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------------------------------------
-#  📌 [1.5.1] - 22-5-2025
-
-✨ Millores:
-
-Afegida la configuració de system_instruction per personalitzar el to del xatbot.
-
-El xatbot ara respon amb un to formal i professional, millorant l'experiència de l'usuari.
-
-Es manté el context de la pàgina web per proporcionar respostes rellevants.
 🔵 Títols grans en blau
 🟢 Novetats
 🟠 Millores destacades en taronja
