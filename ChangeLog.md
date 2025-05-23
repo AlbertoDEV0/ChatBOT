@@ -1,4 +1,19 @@
 -- 📌 Registre de Canvis --
+#  📌 [1.5.1] - 22-5-2025
+
+✨ Millores:
+
+Afegida la configuració de system_instruction per personalitzar el to del xatbot.
+
+El xatbot ara respon amb un to formal i professional, millorant l'experiència de l'usuari.
+
+Es manté el context de la pàgina web per proporcionar respostes rellevants.
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------
+
 #  📌 [1.5.0] - 22-5-2025
 
 🔥 Afegit:
@@ -15,17 +30,6 @@ Desorganització del codi en versions anteriors
 Problema on el missatge de benvinguda no es tornava a mostrar després d’un reinici
 
 -----------------------------------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------------------------------------
-#  📌 [1.5.1] - 22-5-2025
-
-✨ Millores:
-
-Afegida la configuració de system_instruction per personalitzar el to del xatbot.
-
-El xatbot ara respon amb un to formal i professional, millorant l'experiència de l'usuari.
-
-Es manté el context de la pàgina web per proporcionar respostes rellevants.
 
 
 -----------------------------------------------------------------------------------------------------------------
