@@ -1,4 +1,22 @@
 -- 📌 Registre de Canvis --
+
+-----------------------------------------------------------------------------------------------------------------
+
+# 📌 [1.5.2] - 26-5-2025
+
+🔥 Afegit:
+Funcionalitat de crawling amb profunditat: el xatbot ara recorre subpàgines fins a una profunditat de 2.
+
+✨ Millores:
+Millora significativa del web scraping: ara el context integrat al xatbot inclou informació de múltiples subpàgines.
+Integració intel·ligent de subenllaços interns dins el mateix domini.
+Límits de longitud afegits per assegurar l’eficiència del context en les respostes.
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------
+
 #  📌 [1.5.1] - 22-5-2025
 
 ✨ Millores:
